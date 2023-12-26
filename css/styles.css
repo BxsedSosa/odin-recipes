@@ -47,7 +47,7 @@ img.animated-gif {
   transform: translate(-50%, -50%);
 }
 
-.footer {
+#footer {
   position: fixed;
   left: 0;
   bottom: 0;
