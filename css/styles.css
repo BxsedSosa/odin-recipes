@@ -69,24 +69,34 @@ ul.ul-ingredients {
   position: relative;
   padding: 10px 30px;
   margin-left: 25px;
-  margin-right: 80%;
+  margin-right: 70%;
 }
 
 .head-desc {
   background-color: #D3A121;
   border-radius: 25px;
   margin-left: 10px;
-  
 }
 
-.img-lasagna {
+.img-lasagna,
+.img-chilaquiles{
   margin-left: 20px;
   height: 400px; 
-  width: 300px;"
+  width: 300px;
+}
+
+.img-waffle {
+  margin-left: 20px;
+  height: 400px;
+  width: 600px;
 }
 
 .ingredient-info,
-.ol-to-cook{
+.ol-to-cook,
+.layer-lasagna,
+.layer,
+.bake-time,
+.under-title{
   background-color: #D3A121;
   border-radius: 25px;
   position: relative;
