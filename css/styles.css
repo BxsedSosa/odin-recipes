@@ -1,10 +1,12 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;700&display=swap');
+
 * {
-  font-family: sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 html{
   background-color: black;
-  color: black;
+  color: white;
 }
 
 a {
@@ -59,4 +61,35 @@ img.animated-gif {
 
 .foot-link {
   margin: 20px;
+}
+
+ul.ul-ingredients {
+  background-color: #D3A121;
+  border-radius: 25px;
+  position: relative;
+  padding: 10px 30px;
+  margin-left: 25px;
+  margin-right: 80%;
+}
+
+.head-desc {
+  background-color: #D3A121;
+  border-radius: 25px;
+  margin-left: 10px;
+  
+}
+
+.img-lasagna {
+  margin-left: 20px;
+  height: 400px; 
+  width: 300px;"
+}
+
+.ingredient-info,
+.ol-to-cook{
+  background-color: #D3A121;
+  border-radius: 25px;
+  position: relative;
+  padding: 10px 30px;
+  margin-left: 25px;
 }
